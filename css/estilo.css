@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@1,500&display=swap');
+
+
+.encabezado{
+    background-color: rgb(207, 148, 46);
+    padding: 5px;
+}
+
+nav img{
+    width: 35%;
+    margin-left: 40px;
+}
+    
+    
+
+.encabezado ul li a {
+    color: white;
+    font-size: 2em;
+    font-family: 'Playfair Display', serif;
+    font-weight: 500;
+    
+}
+h1{ 
+    color: rgb(10, 10, 10);
+    
+}
+ 
+h2{
+    font-size: 2em;
+}
+
+.main h2{
+    padding-left: 20px;
+    color: rgb(233, 11, 11);
+    background-color: rgb(221, 140, 126);
+    border: solid rgb(0, 0, 0);
+    border-radius: 10px;
+    font-family: 'Playfair Display', serif;
+}
+
+
+
+p{
+    font-size: 2em;
+    font-weight: 500px;
+    font-family: 'Playfair Display', serif;
+
+    
+}
+
+.font{
+    font-family: 'Oswald', sans-serif;
+}
+
+.btn-orange{
+  background-color: rgb(223, 126, 88);
+  color: white;
+  
+}
+.btn-orange:hover{
+    background-color: rgb(172, 93, 67);
+}
+.hv:hover{
+    background-color: bisque;
+}
+.bg-gray{
+    background-color: gray;
+}
+
+footer{
+    padding: 20px 30px;
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(224, 226, 226);
+    }
+
+    footer svg{
+        fill: deeppink;
+        width: 30px;
+        margin-right: 10px;
+    }
+
+    footer a{
+        text-decoration: none;
+        display: block;
+        color: deeppink;
+        font-size: 0.8rem;
+        margin-bottom: 4px;
+    }
+
+
+

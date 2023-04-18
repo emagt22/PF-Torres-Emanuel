@@ -1,0 +1,24 @@
+
+.encabezado{
+        background-color:rgb(207, 148, 46) ;
+        padding: 5px;
+    ul li a{
+        color: white;
+        font-size: 2em;
+        font-family: 'Playfair Display', serif;
+        font-weight: 500;
+    }    
+}
+.nav{
+    img{
+        width: 35%;
+        margin-left: 40px;
+    }
+}
+
+.bg-gray{
+    background-color: gray;
+}
+.font{
+    $mainFont:'Oswald', sans-serif;
+}

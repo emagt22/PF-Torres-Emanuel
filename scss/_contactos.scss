@@ -1,0 +1,40 @@
+.contenedor-principal{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 20px 5%;
+    gap: 5%;
+    .contenedor-mapa{
+        text-align: center;
+        
+        h2{
+            background-color: rgb(250, 199, 106);
+            border: solid;
+            border-radius: 10px;
+        }
+    }
+    contenedor-formulario{
+        display: flex;
+        flex-direction: column;
+    }
+}
+.formulario{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+}
+.contenedor{
+    height: auto;
+    text-align: center;  
+    margin: 20px auto;
+    padding: 15px 50px  ;
+
+}
+
+
+
+
+
+
+

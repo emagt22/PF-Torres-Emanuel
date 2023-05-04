@@ -101,28 +101,18 @@ p {
   font-weight: 500px;
   font-family: "Playfair Display", serif;
 }
-
-.footer {
-  padding: 20px 30px;
-  margin-top: 50px;
+footer{
   display: flex;
-  justify-content: space-between;
-  align-items: center;
-  background-color: rgb(224, 226, 226);
-}
-.footer svg {
-  fill: deeppink;
-  width: 30px;
-  margin-right: 10px;
-}
-.footer a {
-  text-decoration: none;
-  display: block;
-  color: deeppink;
-  font-size: 0.8rem;
-  margin-bottom: 4px;
-}
+  justify-content: center;
+  background-color: rgb(77, 48, 5);
+ 
+  }
 
+  footer svg{
+      fill: rgba(253, 253, 253, 0.895);
+      width: 40px;
+      margin-right: 20px;
+  }
 .contenedor-principal {
   display: flex;
   flex-direction: row;
